@@ -1,0 +1,495 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Winform\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE6FE98-7BA5-4597-92B8-9924778D437D}|hotelManage\\hotelManage.csproj|e:\\winform\\hotelmanage - theo y\u00EAu c\u1EA7u\\hotelmanage - theo y\u00EAu c\u1EA7u\\hotelmanage\\hotelmanage\\allusercontrol\\uc_receipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE6FE98-7BA5-4597-92B8-9924778D437D}|hotelManage\\hotelManage.csproj|solutionrelative:hotelmanage\\allusercontrol\\uc_receipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE6FE98-7BA5-4597-92B8-9924778D437D}|hotelManage\\hotelManage.csproj|E:\\Winform\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage\\hotelmanage\\allusercontrol\\uc_receipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AAE6FE98-7BA5-4597-92B8-9924778D437D}|hotelManage\\hotelManage.csproj|solutionrelative:hotelmanage\\allusercontrol\\uc_receipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE6FE98-7BA5-4597-92B8-9924778D437D}|hotelManage\\hotelManage.csproj|e:\\winform\\hotelmanage - theo y\u00EAu c\u1EA7u\\hotelmanage - theo y\u00EAu c\u1EA7u\\hotelmanage\\hotelmanage\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE6FE98-7BA5-4597-92B8-9924778D437D}|hotelManage\\hotelManage.csproj|solutionrelative:hotelmanage\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE6FE98-7BA5-4597-92B8-9924778D437D}|hotelManage\\hotelManage.csproj|E:\\Winform\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage\\hotelmanage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE6FE98-7BA5-4597-92B8-9924778D437D}|hotelManage\\hotelManage.csproj|solutionrelative:hotelmanage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE6FE98-7BA5-4597-92B8-9924778D437D}|hotelManage\\hotelManage.csproj|e:\\winform\\hotelmanage - theo y\u00EAu c\u1EA7u\\hotelmanage - theo y\u00EAu c\u1EA7u\\hotelmanage\\hotelmanage\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AAE6FE98-7BA5-4597-92B8-9924778D437D}|hotelManage\\hotelManage.csproj|solutionrelative:hotelmanage\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE6FE98-7BA5-4597-92B8-9924778D437D}|hotelManage\\hotelManage.csproj|E:\\Winform\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage\\hotelmanage\\functionconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE6FE98-7BA5-4597-92B8-9924778D437D}|hotelManage\\hotelManage.csproj|solutionrelative:hotelmanage\\functionconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE6FE98-7BA5-4597-92B8-9924778D437D}|hotelManage\\hotelManage.csproj|e:\\winform\\hotelmanage - theo y\u00EAu c\u1EA7u\\hotelmanage - theo y\u00EAu c\u1EA7u\\hotelmanage\\hotelmanage\\allusercontrol\\uc_customerdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE6FE98-7BA5-4597-92B8-9924778D437D}|hotelManage\\hotelManage.csproj|solutionrelative:hotelmanage\\allusercontrol\\uc_customerdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE6FE98-7BA5-4597-92B8-9924778D437D}|hotelManage\\hotelManage.csproj|E:\\Winform\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage\\hotelmanage\\allusercontrol\\uc_customerdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AAE6FE98-7BA5-4597-92B8-9924778D437D}|hotelManage\\hotelManage.csproj|solutionrelative:hotelmanage\\allusercontrol\\uc_customerdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE6FE98-7BA5-4597-92B8-9924778D437D}|hotelManage\\hotelManage.csproj|E:\\Winform\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage\\hotelmanage\\allusercontrol\\uc_customerres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AAE6FE98-7BA5-4597-92B8-9924778D437D}|hotelManage\\hotelManage.csproj|solutionrelative:hotelmanage\\allusercontrol\\uc_customerres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE6FE98-7BA5-4597-92B8-9924778D437D}|hotelManage\\hotelManage.csproj|E:\\Winform\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage\\hotelmanage\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AAE6FE98-7BA5-4597-92B8-9924778D437D}|hotelManage\\hotelManage.csproj|solutionrelative:hotelmanage\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE6FE98-7BA5-4597-92B8-9924778D437D}|hotelManage\\hotelManage.csproj|E:\\Winform\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage\\hotelmanage\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE6FE98-7BA5-4597-92B8-9924778D437D}|hotelManage\\hotelManage.csproj|solutionrelative:hotelmanage\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE6FE98-7BA5-4597-92B8-9924778D437D}|hotelManage\\hotelManage.csproj|E:\\Winform\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage\\hotelmanage\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE6FE98-7BA5-4597-92B8-9924778D437D}|hotelManage\\hotelManage.csproj|solutionrelative:hotelmanage\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE6FE98-7BA5-4597-92B8-9924778D437D}|hotelManage\\hotelManage.csproj|E:\\Winform\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage\\hotelmanage\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AAE6FE98-7BA5-4597-92B8-9924778D437D}|hotelManage\\hotelManage.csproj|solutionrelative:hotelmanage\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE6FE98-7BA5-4597-92B8-9924778D437D}|hotelManage\\hotelManage.csproj|E:\\Winform\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage\\hotelmanage\\allusercontrol\\uc_checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AAE6FE98-7BA5-4597-92B8-9924778D437D}|hotelManage\\hotelManage.csproj|solutionrelative:hotelmanage\\allusercontrol\\uc_checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE6FE98-7BA5-4597-92B8-9924778D437D}|hotelManage\\hotelManage.csproj|E:\\Winform\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage\\hotelmanage\\allusercontrol\\uc_employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AAE6FE98-7BA5-4597-92B8-9924778D437D}|hotelManage\\hotelManage.csproj|solutionrelative:hotelmanage\\allusercontrol\\uc_employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE6FE98-7BA5-4597-92B8-9924778D437D}|hotelManage\\hotelManage.csproj|E:\\Winform\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage\\hotelmanage\\allusercontrol\\uc_addroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AAE6FE98-7BA5-4597-92B8-9924778D437D}|hotelManage\\hotelManage.csproj|solutionrelative:hotelmanage\\allusercontrol\\uc_addroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE6FE98-7BA5-4597-92B8-9924778D437D}|hotelManage\\hotelManage.csproj|E:\\Winform\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage\\hotelmanage\\allusercontrol\\uc_receipt.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{AAE6FE98-7BA5-4597-92B8-9924778D437D}|hotelManage\\hotelManage.csproj|solutionrelative:hotelmanage\\allusercontrol\\uc_receipt.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE6FE98-7BA5-4597-92B8-9924778D437D}|hotelManage\\hotelManage.csproj|E:\\Winform\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage\\hotelmanage\\allusercontrol\\uc_receipt.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE6FE98-7BA5-4597-92B8-9924778D437D}|hotelManage\\hotelManage.csproj|solutionrelative:hotelmanage\\allusercontrol\\uc_receipt.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE6FE98-7BA5-4597-92B8-9924778D437D}|hotelManage\\hotelManage.csproj|E:\\Winform\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage\\hotelmanage\\allusercontrol\\uc_addroom.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE6FE98-7BA5-4597-92B8-9924778D437D}|hotelManage\\hotelManage.csproj|solutionrelative:hotelmanage\\allusercontrol\\uc_addroom.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE6FE98-7BA5-4597-92B8-9924778D437D}|hotelManage\\hotelManage.csproj|E:\\Winform\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage\\hotelmanage\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AAE6FE98-7BA5-4597-92B8-9924778D437D}|hotelManage\\hotelManage.csproj|solutionrelative:hotelmanage\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE6FE98-7BA5-4597-92B8-9924778D437D}|hotelManage\\hotelManage.csproj|E:\\Winform\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage\\hotelmanage\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE6FE98-7BA5-4597-92B8-9924778D437D}|hotelManage\\hotelManage.csproj|solutionrelative:hotelmanage\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE6FE98-7BA5-4597-92B8-9924778D437D}|hotelManage\\hotelManage.csproj|E:\\Winform\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage\\hotelmanage\\allusercontrol\\uc_checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE6FE98-7BA5-4597-92B8-9924778D437D}|hotelManage\\hotelManage.csproj|solutionrelative:hotelmanage\\allusercontrol\\uc_checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE6FE98-7BA5-4597-92B8-9924778D437D}|hotelManage\\hotelManage.csproj|E:\\Winform\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage\\hotelmanage\\allusercontrol\\uc_customerres.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE6FE98-7BA5-4597-92B8-9924778D437D}|hotelManage\\hotelManage.csproj|solutionrelative:hotelmanage\\allusercontrol\\uc_customerres.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE6FE98-7BA5-4597-92B8-9924778D437D}|hotelManage\\hotelManage.csproj|E:\\Winform\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage\\hotelmanage\\allusercontrol\\uc_customerres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE6FE98-7BA5-4597-92B8-9924778D437D}|hotelManage\\hotelManage.csproj|solutionrelative:hotelmanage\\allusercontrol\\uc_customerres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE6FE98-7BA5-4597-92B8-9924778D437D}|hotelManage\\hotelManage.csproj|E:\\Winform\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage\\hotelmanage\\allusercontrol\\uc_addroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE6FE98-7BA5-4597-92B8-9924778D437D}|hotelManage\\hotelManage.csproj|solutionrelative:hotelmanage\\allusercontrol\\uc_addroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE6FE98-7BA5-4597-92B8-9924778D437D}|hotelManage\\hotelManage.csproj|E:\\Winform\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage\\hotelmanage\\allusercontrol\\uc_employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE6FE98-7BA5-4597-92B8-9924778D437D}|hotelManage\\hotelManage.csproj|solutionrelative:hotelmanage\\allusercontrol\\uc_employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE6FE98-7BA5-4597-92B8-9924778D437D}|hotelManage\\hotelManage.csproj|E:\\Winform\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage\\hotelmanage\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE6FE98-7BA5-4597-92B8-9924778D437D}|hotelManage\\hotelManage.csproj|solutionrelative:hotelmanage\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 295,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bill.cs [Design]",
+              "DocumentMoniker": "E:\\Winform\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage\\hotelManage\\Bill.cs",
+              "RelativeDocumentMoniker": "hotelManage\\Bill.cs",
+              "ToolTip": "E:\\Winform\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage\\hotelManage\\Bill.cs [Design]",
+              "RelativeToolTip": "hotelManage\\Bill.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-14T05:47:07.608Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bill.cs",
+              "DocumentMoniker": "E:\\Winform\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage\\hotelManage\\Bill.cs",
+              "RelativeDocumentMoniker": "hotelManage\\Bill.cs",
+              "ToolTip": "E:\\Winform\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage\\hotelManage\\Bill.cs",
+              "RelativeToolTip": "hotelManage\\Bill.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-14T05:47:53.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UC_Receipt.cs [Design]",
+              "DocumentMoniker": "E:\\Winform\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage\\hotelManage\\AllUserControl\\UC_Receipt.cs",
+              "RelativeDocumentMoniker": "hotelManage\\AllUserControl\\UC_Receipt.cs",
+              "ToolTip": "E:\\Winform\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage\\hotelManage\\AllUserControl\\UC_Receipt.cs [Design]",
+              "RelativeToolTip": "hotelManage\\AllUserControl\\UC_Receipt.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-13T07:38:03.212Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "functionConnect.cs",
+              "DocumentMoniker": "E:\\Winform\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage\\hotelManage\\functionConnect.cs",
+              "RelativeDocumentMoniker": "hotelManage\\functionConnect.cs",
+              "ToolTip": "E:\\Winform\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage\\hotelManage\\functionConnect.cs",
+              "RelativeToolTip": "hotelManage\\functionConnect.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAACkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-13T07:38:03.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Winform\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage\\hotelManage\\Program.cs",
+              "RelativeDocumentMoniker": "hotelManage\\Program.cs",
+              "ToolTip": "E:\\Winform\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage\\hotelManage\\Program.cs",
+              "RelativeToolTip": "hotelManage\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-13T07:38:03.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UC_Receipt.cs",
+              "DocumentMoniker": "E:\\Winform\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage\\hotelManage\\AllUserControl\\UC_Receipt.cs",
+              "RelativeDocumentMoniker": "hotelManage\\AllUserControl\\UC_Receipt.cs",
+              "ToolTip": "E:\\Winform\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage\\hotelManage\\AllUserControl\\UC_Receipt.cs",
+              "RelativeToolTip": "hotelManage\\AllUserControl\\UC_Receipt.cs",
+              "ViewState": "AQIAALQAAAAAAAAAAAAAAMUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-13T07:38:03.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UC_CustomerDetails.cs",
+              "DocumentMoniker": "E:\\Winform\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage\\hotelManage\\AllUserControl\\UC_CustomerDetails.cs",
+              "RelativeDocumentMoniker": "hotelManage\\AllUserControl\\UC_CustomerDetails.cs",
+              "ToolTip": "E:\\Winform\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage\\hotelManage\\AllUserControl\\UC_CustomerDetails.cs",
+              "RelativeToolTip": "hotelManage\\AllUserControl\\UC_CustomerDetails.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAACkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-14T05:49:59.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UC_CustomerDetails.cs [Design]",
+              "DocumentMoniker": "E:\\Winform\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage\\hotelManage\\AllUserControl\\UC_CustomerDetails.cs",
+              "RelativeDocumentMoniker": "hotelManage\\AllUserControl\\UC_CustomerDetails.cs",
+              "ToolTip": "E:\\Winform\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage\\hotelManage\\AllUserControl\\UC_CustomerDetails.cs [Design]",
+              "RelativeToolTip": "hotelManage\\AllUserControl\\UC_CustomerDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-13T07:38:03.209Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\Winform\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage\\hotelManage\\Form1.cs",
+              "RelativeDocumentMoniker": "hotelManage\\Form1.cs",
+              "ToolTip": "E:\\Winform\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage\\hotelManage\\Form1.cs [Design]",
+              "RelativeToolTip": "hotelManage\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-13T07:38:03.315Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UC_CustomerRes.cs [Design]",
+              "DocumentMoniker": "E:\\Winform\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage\\hotelManage\\AllUserControl\\UC_CustomerRes.cs",
+              "RelativeDocumentMoniker": "hotelManage\\AllUserControl\\UC_CustomerRes.cs",
+              "ToolTip": "E:\\Winform\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage\\hotelManage\\AllUserControl\\UC_CustomerRes.cs [Design]",
+              "RelativeToolTip": "hotelManage\\AllUserControl\\UC_CustomerRes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-13T07:38:03.211Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\Winform\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage\\hotelManage\\Form1.cs",
+              "RelativeDocumentMoniker": "hotelManage\\Form1.cs",
+              "ToolTip": "E:\\Winform\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage\\hotelManage\\Form1.cs",
+              "RelativeToolTip": "hotelManage\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-13T07:38:03.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "dashboard.cs",
+              "DocumentMoniker": "E:\\Winform\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage\\hotelManage\\dashboard.cs",
+              "RelativeDocumentMoniker": "hotelManage\\dashboard.cs",
+              "ToolTip": "E:\\Winform\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage\\hotelManage\\dashboard.cs",
+              "RelativeToolTip": "hotelManage\\dashboard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-13T07:38:03.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "dashboard.cs [Design]",
+              "DocumentMoniker": "E:\\Winform\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage\\hotelManage\\dashboard.cs",
+              "RelativeDocumentMoniker": "hotelManage\\dashboard.cs",
+              "ToolTip": "E:\\Winform\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage\\hotelManage\\dashboard.cs [Design]",
+              "RelativeToolTip": "hotelManage\\dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-13T07:38:03.165Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UC_CheckOut.cs [Design]",
+              "DocumentMoniker": "E:\\Winform\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage\\hotelManage\\AllUserControl\\UC_CheckOut.cs",
+              "RelativeDocumentMoniker": "hotelManage\\AllUserControl\\UC_CheckOut.cs",
+              "ToolTip": "E:\\Winform\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage\\hotelManage\\AllUserControl\\UC_CheckOut.cs [Design]",
+              "RelativeToolTip": "hotelManage\\AllUserControl\\UC_CheckOut.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-13T07:38:03.21Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UC_Employee.cs [Design]",
+              "DocumentMoniker": "E:\\Winform\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage\\hotelManage\\AllUserControl\\UC_Employee.cs",
+              "RelativeDocumentMoniker": "hotelManage\\AllUserControl\\UC_Employee.cs",
+              "ToolTip": "E:\\Winform\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage\\hotelManage\\AllUserControl\\UC_Employee.cs [Design]",
+              "RelativeToolTip": "hotelManage\\AllUserControl\\UC_Employee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-13T07:38:03.212Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UC_AddRoom.cs [Design]",
+              "DocumentMoniker": "E:\\Winform\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage\\hotelManage\\AllUserControl\\UC_AddRoom.cs",
+              "RelativeDocumentMoniker": "hotelManage\\AllUserControl\\UC_AddRoom.cs",
+              "ToolTip": "E:\\Winform\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage\\hotelManage\\AllUserControl\\UC_AddRoom.cs [Design]",
+              "RelativeToolTip": "hotelManage\\AllUserControl\\UC_AddRoom.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-13T07:38:03.214Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UC_AddRoom.Designer.cs",
+              "DocumentMoniker": "E:\\Winform\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage\\hotelManage\\AllUserControl\\UC_AddRoom.Designer.cs",
+              "RelativeDocumentMoniker": "hotelManage\\AllUserControl\\UC_AddRoom.Designer.cs",
+              "ToolTip": "E:\\Winform\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage\\hotelManage\\AllUserControl\\UC_AddRoom.Designer.cs",
+              "RelativeToolTip": "hotelManage\\AllUserControl\\UC_AddRoom.Designer.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAIAwwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-13T07:38:03.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UC_Receipt.resx",
+              "DocumentMoniker": "E:\\Winform\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage\\hotelManage\\AllUserControl\\UC_Receipt.resx",
+              "RelativeDocumentMoniker": "hotelManage\\AllUserControl\\UC_Receipt.resx",
+              "ToolTip": "E:\\Winform\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage\\hotelManage\\AllUserControl\\UC_Receipt.resx",
+              "RelativeToolTip": "hotelManage\\AllUserControl\\UC_Receipt.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-01-13T13:52:27.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UC_Receipt.Designer.cs",
+              "DocumentMoniker": "E:\\Winform\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage\\hotelManage\\AllUserControl\\UC_Receipt.Designer.cs",
+              "RelativeDocumentMoniker": "hotelManage\\AllUserControl\\UC_Receipt.Designer.cs",
+              "ToolTip": "E:\\Winform\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage\\hotelManage\\AllUserControl\\UC_Receipt.Designer.cs",
+              "RelativeToolTip": "hotelManage\\AllUserControl\\UC_Receipt.Designer.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-13T07:38:03.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "App.config",
+              "DocumentMoniker": "E:\\Winform\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage\\hotelManage\\App.config",
+              "RelativeDocumentMoniker": "hotelManage\\App.config",
+              "ToolTip": "E:\\Winform\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage\\hotelManage\\App.config",
+              "RelativeToolTip": "hotelManage\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-01-13T07:38:03.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\Winform\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage\\hotelManage\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "hotelManage\\Form1.Designer.cs",
+              "ToolTip": "E:\\Winform\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage\\hotelManage\\Form1.Designer.cs",
+              "RelativeToolTip": "hotelManage\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-13T07:38:03.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UC_CheckOut.cs",
+              "DocumentMoniker": "E:\\Winform\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage\\hotelManage\\AllUserControl\\UC_CheckOut.cs",
+              "RelativeDocumentMoniker": "hotelManage\\AllUserControl\\UC_CheckOut.cs",
+              "ToolTip": "E:\\Winform\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage\\hotelManage\\AllUserControl\\UC_CheckOut.cs",
+              "RelativeToolTip": "hotelManage\\AllUserControl\\UC_CheckOut.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAlwDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-13T07:38:03.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UC_CustomerRes.Designer.cs",
+              "DocumentMoniker": "E:\\Winform\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage\\hotelManage\\AllUserControl\\UC_CustomerRes.Designer.cs",
+              "RelativeDocumentMoniker": "hotelManage\\AllUserControl\\UC_CustomerRes.Designer.cs",
+              "ToolTip": "E:\\Winform\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage\\hotelManage\\AllUserControl\\UC_CustomerRes.Designer.cs",
+              "RelativeToolTip": "hotelManage\\AllUserControl\\UC_CustomerRes.Designer.cs",
+              "ViewState": "AQIAAHEBAAAAAAAAAAAlwHsBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-13T07:38:03.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UC_CustomerRes.cs",
+              "DocumentMoniker": "E:\\Winform\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage\\hotelManage\\AllUserControl\\UC_CustomerRes.cs",
+              "RelativeDocumentMoniker": "hotelManage\\AllUserControl\\UC_CustomerRes.cs",
+              "ToolTip": "E:\\Winform\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage\\hotelManage\\AllUserControl\\UC_CustomerRes.cs",
+              "RelativeToolTip": "hotelManage\\AllUserControl\\UC_CustomerRes.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAlwBoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-13T07:38:03.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UC_AddRoom.cs",
+              "DocumentMoniker": "E:\\Winform\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage\\hotelManage\\AllUserControl\\UC_AddRoom.cs",
+              "RelativeDocumentMoniker": "hotelManage\\AllUserControl\\UC_AddRoom.cs",
+              "ToolTip": "E:\\Winform\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage\\hotelManage\\AllUserControl\\UC_AddRoom.cs",
+              "RelativeToolTip": "hotelManage\\AllUserControl\\UC_AddRoom.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAlwB8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-13T07:38:03.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UC_Employee.cs",
+              "DocumentMoniker": "E:\\Winform\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage\\hotelManage\\AllUserControl\\UC_Employee.cs",
+              "RelativeDocumentMoniker": "hotelManage\\AllUserControl\\UC_Employee.cs",
+              "ToolTip": "E:\\Winform\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage\\hotelManage\\AllUserControl\\UC_Employee.cs",
+              "RelativeToolTip": "hotelManage\\AllUserControl\\UC_Employee.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAQwG4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-13T07:38:03.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "dashboard.Designer.cs",
+              "DocumentMoniker": "E:\\Winform\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage\\hotelManage\\dashboard.Designer.cs",
+              "RelativeDocumentMoniker": "hotelManage\\dashboard.Designer.cs",
+              "ToolTip": "E:\\Winform\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage - Theo y\u00EAu c\u1EA7u\\hotelManage\\hotelManage\\dashboard.Designer.cs",
+              "RelativeToolTip": "hotelManage\\dashboard.Designer.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAlwGQAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-13T07:38:03.219Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 295,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

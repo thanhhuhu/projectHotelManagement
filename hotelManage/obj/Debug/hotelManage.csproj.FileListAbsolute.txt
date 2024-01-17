@@ -1,0 +1,336 @@
+C:\Users\LEGION\source\repos\New folder\mang1chieu\hotelManage\hotelManage\bin\Debug\hotelManage.exe.config
+C:\Users\LEGION\source\repos\New folder\mang1chieu\hotelManage\hotelManage\bin\Debug\hotelManage.exe
+C:\Users\LEGION\source\repos\New folder\mang1chieu\hotelManage\hotelManage\bin\Debug\hotelManage.pdb
+C:\Users\LEGION\source\repos\New folder\mang1chieu\hotelManage\hotelManage\bin\Debug\Guna.UI2.dll
+C:\Users\LEGION\source\repos\New folder\mang1chieu\hotelManage\hotelManage\obj\Debug\hotelManage.csproj.AssemblyReference.cache
+C:\Users\LEGION\source\repos\New folder\mang1chieu\hotelManage\hotelManage\obj\Debug\hotelManage.dashboard.resources
+C:\Users\LEGION\source\repos\New folder\mang1chieu\hotelManage\hotelManage\obj\Debug\hotelManage.Form1.resources
+C:\Users\LEGION\source\repos\New folder\mang1chieu\hotelManage\hotelManage\obj\Debug\hotelManage.Properties.Resources.resources
+C:\Users\LEGION\source\repos\New folder\mang1chieu\hotelManage\hotelManage\obj\Debug\hotelManage.UC_AddRoom.resources
+C:\Users\LEGION\source\repos\New folder\mang1chieu\hotelManage\hotelManage\obj\Debug\hotelManage.UC_CheckOut.resources
+C:\Users\LEGION\source\repos\New folder\mang1chieu\hotelManage\hotelManage\obj\Debug\hotelManage.UC_CustomerDetails.resources
+C:\Users\LEGION\source\repos\New folder\mang1chieu\hotelManage\hotelManage\obj\Debug\hotelManage.UC_CustomerRes.resources
+C:\Users\LEGION\source\repos\New folder\mang1chieu\hotelManage\hotelManage\obj\Debug\hotelManage.csproj.GenerateResource.cache
+C:\Users\LEGION\source\repos\New folder\mang1chieu\hotelManage\hotelManage\obj\Debug\hotelManage.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\New folder\mang1chieu\hotelManage\hotelManage\obj\Debug\hotelManage.csproj.CopyComplete
+C:\Users\LEGION\source\repos\New folder\mang1chieu\hotelManage\hotelManage\obj\Debug\hotelManage.exe
+C:\Users\LEGION\source\repos\New folder\mang1chieu\hotelManage\hotelManage\obj\Debug\hotelManage.pdb
+C:\Users\LEGION\source\repos\New folder\mang1chieu\hotelManage\hotelManage\obj\Debug\hotelManage.UC_Receipt.resources
+C:\Users\LEGION\source\repos\New folder\mang1chieu\hotelManage\hotelManage\bin\Debug\Xceed.Document.NET.dll
+C:\Users\LEGION\source\repos\New folder\mang1chieu\hotelManage\hotelManage\bin\Debug\Xceed.Pdf.dll
+C:\Users\LEGION\source\repos\New folder\mang1chieu\hotelManage\hotelManage\bin\Debug\Xceed.Words.NET.dll
+C:\Users\thayz\OneDrive\Desktop\hotelManage\hotelManage\bin\Debug\hotelManage.exe.config
+C:\Users\thayz\OneDrive\Desktop\hotelManage\hotelManage\bin\Debug\hotelManage.exe
+C:\Users\thayz\OneDrive\Desktop\hotelManage\hotelManage\bin\Debug\hotelManage.pdb
+C:\Users\thayz\OneDrive\Desktop\hotelManage\hotelManage\bin\Debug\Guna.UI2.dll
+C:\Users\thayz\OneDrive\Desktop\hotelManage\hotelManage\bin\Debug\Xceed.Document.NET.dll
+C:\Users\thayz\OneDrive\Desktop\hotelManage\hotelManage\bin\Debug\Xceed.Pdf.dll
+C:\Users\thayz\OneDrive\Desktop\hotelManage\hotelManage\bin\Debug\Xceed.Words.NET.dll
+C:\Users\thayz\OneDrive\Desktop\hotelManage\hotelManage\obj\Debug\hotelManage.csproj.AssemblyReference.cache
+C:\Users\thayz\OneDrive\Desktop\hotelManage\hotelManage\obj\Debug\hotelManage.dashboard.resources
+C:\Users\thayz\OneDrive\Desktop\hotelManage\hotelManage\obj\Debug\hotelManage.Form1.resources
+C:\Users\thayz\OneDrive\Desktop\hotelManage\hotelManage\obj\Debug\hotelManage.Properties.Resources.resources
+C:\Users\thayz\OneDrive\Desktop\hotelManage\hotelManage\obj\Debug\hotelManage.UC_AddRoom.resources
+C:\Users\thayz\OneDrive\Desktop\hotelManage\hotelManage\obj\Debug\hotelManage.UC_CheckOut.resources
+C:\Users\thayz\OneDrive\Desktop\hotelManage\hotelManage\obj\Debug\hotelManage.UC_CustomerDetails.resources
+C:\Users\thayz\OneDrive\Desktop\hotelManage\hotelManage\obj\Debug\hotelManage.UC_CustomerRes.resources
+C:\Users\thayz\OneDrive\Desktop\hotelManage\hotelManage\obj\Debug\hotelManage.UC_Receipt.resources
+C:\Users\thayz\OneDrive\Desktop\hotelManage\hotelManage\obj\Debug\hotelManage.csproj.GenerateResource.cache
+C:\Users\thayz\OneDrive\Desktop\hotelManage\hotelManage\obj\Debug\hotelManage.csproj.CoreCompileInputs.cache
+C:\Users\thayz\OneDrive\Desktop\hotelManage\hotelManage\obj\Debug\hotelManage.csproj.CopyComplete
+C:\Users\thayz\OneDrive\Desktop\hotelManage\hotelManage\obj\Debug\hotelManage.exe
+C:\Users\thayz\OneDrive\Desktop\hotelManage\hotelManage\obj\Debug\hotelManage.pdb
+C:\Users\thayz\OneDrive\Desktop\hotelManage\hotelManage\bin\Debug\Microsoft.Office.Interop.Word.dll
+C:\Users\thayz\OneDrive\Desktop\hotelManage\hotelManage\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\thayz\OneDrive\Desktop\hotelManage\hotelManage\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\thayz\OneDrive\Desktop\hotelManage\hotelManage\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\thayz\OneDrive\Desktop\hotelManage\hotelManage\bin\Debug\Enums.NET.dll
+C:\Users\thayz\OneDrive\Desktop\hotelManage\hotelManage\bin\Debug\Enums.NET.pdb
+C:\Users\thayz\OneDrive\Desktop\hotelManage\hotelManage\bin\Debug\MathNet.Numerics.dll
+C:\Users\thayz\OneDrive\Desktop\hotelManage\hotelManage\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\thayz\OneDrive\Desktop\hotelManage\hotelManage\bin\Debug\NPOI.Core.dll
+C:\Users\thayz\OneDrive\Desktop\hotelManage\hotelManage\bin\Debug\NPOI.Core.pdb
+C:\Users\thayz\OneDrive\Desktop\hotelManage\hotelManage\bin\Debug\NPOI.OOXML.dll
+C:\Users\thayz\OneDrive\Desktop\hotelManage\hotelManage\bin\Debug\NPOI.OOXML.pdb
+C:\Users\thayz\OneDrive\Desktop\hotelManage\hotelManage\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\thayz\OneDrive\Desktop\hotelManage\hotelManage\bin\Debug\NPOI.OpenXml4Net.pdb
+C:\Users\thayz\OneDrive\Desktop\hotelManage\hotelManage\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\thayz\OneDrive\Desktop\hotelManage\hotelManage\bin\Debug\NPOI.OpenXmlFormats.pdb
+C:\Users\thayz\OneDrive\Desktop\hotelManage\hotelManage\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\thayz\OneDrive\Desktop\hotelManage\hotelManage\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\thayz\OneDrive\Desktop\hotelManage\hotelManage\bin\Debug\SixLabors.Fonts.dll
+C:\Users\thayz\OneDrive\Desktop\hotelManage\hotelManage\bin\Debug\SixLabors.ImageSharp.dll
+C:\Users\thayz\OneDrive\Desktop\hotelManage\hotelManage\bin\Debug\System.Buffers.dll
+C:\Users\thayz\OneDrive\Desktop\hotelManage\hotelManage\bin\Debug\System.Memory.dll
+C:\Users\thayz\OneDrive\Desktop\hotelManage\hotelManage\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\thayz\OneDrive\Desktop\hotelManage\hotelManage\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\thayz\OneDrive\Desktop\hotelManage\hotelManage\bin\Debug\System.Security.AccessControl.dll
+C:\Users\thayz\OneDrive\Desktop\hotelManage\hotelManage\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\thayz\OneDrive\Desktop\hotelManage\hotelManage\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\thayz\OneDrive\Desktop\hotelManage\hotelManage\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\thayz\OneDrive\Desktop\hotelManage\hotelManage\obj\Debug\hotelManage.csproj.SuggestedBindingRedirects.cache
+C:\Users\thayz\OneDrive\Desktop\hotelManage\hotelManage\obj\Debug\hotelManage.exe.config
+C:\Users\LEGION\Downloads\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\hotelManage.exe.config
+C:\Users\LEGION\Downloads\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\hotelManage.exe
+C:\Users\LEGION\Downloads\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\hotelManage.pdb
+C:\Users\LEGION\Downloads\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\LEGION\Downloads\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\LEGION\Downloads\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\LEGION\Downloads\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\Enums.NET.dll
+C:\Users\LEGION\Downloads\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\Enums.NET.pdb
+C:\Users\LEGION\Downloads\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\Guna.UI2.dll
+C:\Users\LEGION\Downloads\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\MathNet.Numerics.dll
+C:\Users\LEGION\Downloads\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\LEGION\Downloads\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\Microsoft.Office.Interop.Word.dll
+C:\Users\LEGION\Downloads\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\NPOI.Core.dll
+C:\Users\LEGION\Downloads\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\NPOI.Core.pdb
+C:\Users\LEGION\Downloads\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\NPOI.OOXML.dll
+C:\Users\LEGION\Downloads\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\NPOI.OOXML.pdb
+C:\Users\LEGION\Downloads\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\LEGION\Downloads\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\NPOI.OpenXml4Net.pdb
+C:\Users\LEGION\Downloads\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\LEGION\Downloads\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\NPOI.OpenXmlFormats.pdb
+C:\Users\LEGION\Downloads\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\LEGION\Downloads\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\LEGION\Downloads\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\SixLabors.Fonts.dll
+C:\Users\LEGION\Downloads\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\SixLabors.ImageSharp.dll
+C:\Users\LEGION\Downloads\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\System.Buffers.dll
+C:\Users\LEGION\Downloads\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\System.Memory.dll
+C:\Users\LEGION\Downloads\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\LEGION\Downloads\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LEGION\Downloads\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\System.Security.AccessControl.dll
+C:\Users\LEGION\Downloads\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\LEGION\Downloads\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\LEGION\Downloads\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\LEGION\Downloads\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\Xceed.Document.NET.dll
+C:\Users\LEGION\Downloads\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\Xceed.Pdf.dll
+C:\Users\LEGION\Downloads\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\Xceed.Words.NET.dll
+C:\Users\LEGION\Downloads\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.csproj.AssemblyReference.cache
+C:\Users\LEGION\Downloads\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.csproj.SuggestedBindingRedirects.cache
+C:\Users\LEGION\Downloads\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.exe.config
+C:\Users\LEGION\Downloads\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.dashboard.resources
+C:\Users\LEGION\Downloads\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.Form1.resources
+C:\Users\LEGION\Downloads\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.Properties.Resources.resources
+C:\Users\LEGION\Downloads\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.UC_AddRoom.resources
+C:\Users\LEGION\Downloads\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.UC_CheckOut.resources
+C:\Users\LEGION\Downloads\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.UC_CustomerDetails.resources
+C:\Users\LEGION\Downloads\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.UC_CustomerRes.resources
+C:\Users\LEGION\Downloads\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.UC_Receipt.resources
+C:\Users\LEGION\Downloads\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.csproj.GenerateResource.cache
+C:\Users\LEGION\Downloads\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\Downloads\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.csproj.CopyComplete
+C:\Users\LEGION\Downloads\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.exe
+C:\Users\LEGION\Downloads\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.pdb
+C:\Users\LEGION\Downloads\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.AllUserControl.UC_Employee.resources
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\hotelManage.exe.config
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\hotelManage.exe
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\hotelManage.pdb
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\BouncyCastle.Cryptography.dll
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\DocumentFormat.OpenXml.dll
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\Enums.NET.dll
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\Enums.NET.pdb
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\Guna.UI2.dll
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\MathNet.Numerics.dll
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\Microsoft.Office.Interop.Word.dll
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\NPOI.Core.dll
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\NPOI.Core.pdb
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\NPOI.OOXML.dll
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\NPOI.OOXML.pdb
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\NPOI.OpenXml4Net.dll
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\NPOI.OpenXml4Net.pdb
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\NPOI.OpenXmlFormats.pdb
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\ICSharpCode.SharpZipLib.pdb
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\SixLabors.Fonts.dll
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\SixLabors.ImageSharp.dll
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\System.Buffers.dll
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\System.Memory.dll
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\System.Numerics.Vectors.dll
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\System.Security.AccessControl.dll
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\System.Security.Cryptography.Xml.dll
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\System.Security.Principal.Windows.dll
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\System.Text.Encoding.CodePages.dll
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\Xceed.Document.NET.dll
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\Xceed.Pdf.dll
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\Xceed.Words.NET.dll
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.csproj.AssemblyReference.cache
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.csproj.SuggestedBindingRedirects.cache
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.exe.config
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.AllUserControl.UC_Employee.resources
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.dashboard.resources
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.Form1.resources
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.Properties.Resources.resources
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.UC_AddRoom.resources
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.UC_CheckOut.resources
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.UC_CustomerDetails.resources
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.UC_CustomerRes.resources
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.UC_Receipt.resources
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.csproj.GenerateResource.cache
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.csproj.CoreCompileInputs.cache
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.csproj.CopyComplete
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.exe
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.pdb
+C:\Users\LEGION\Desktop\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\hotelManage.exe.config
+C:\Users\LEGION\Desktop\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\hotelManage.exe
+C:\Users\LEGION\Desktop\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\hotelManage.pdb
+C:\Users\LEGION\Desktop\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\LEGION\Desktop\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\LEGION\Desktop\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\LEGION\Desktop\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\Enums.NET.dll
+C:\Users\LEGION\Desktop\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\Enums.NET.pdb
+C:\Users\LEGION\Desktop\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\Guna.UI2.dll
+C:\Users\LEGION\Desktop\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\MathNet.Numerics.dll
+C:\Users\LEGION\Desktop\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\LEGION\Desktop\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\Microsoft.Office.Interop.Word.dll
+C:\Users\LEGION\Desktop\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\NPOI.Core.dll
+C:\Users\LEGION\Desktop\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\NPOI.Core.pdb
+C:\Users\LEGION\Desktop\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\NPOI.OOXML.dll
+C:\Users\LEGION\Desktop\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\NPOI.OOXML.pdb
+C:\Users\LEGION\Desktop\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\LEGION\Desktop\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\NPOI.OpenXml4Net.pdb
+C:\Users\LEGION\Desktop\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\LEGION\Desktop\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\NPOI.OpenXmlFormats.pdb
+C:\Users\LEGION\Desktop\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\LEGION\Desktop\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\LEGION\Desktop\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\SixLabors.Fonts.dll
+C:\Users\LEGION\Desktop\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\SixLabors.ImageSharp.dll
+C:\Users\LEGION\Desktop\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\System.Buffers.dll
+C:\Users\LEGION\Desktop\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\System.Memory.dll
+C:\Users\LEGION\Desktop\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\LEGION\Desktop\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LEGION\Desktop\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\System.Security.AccessControl.dll
+C:\Users\LEGION\Desktop\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\LEGION\Desktop\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\LEGION\Desktop\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\LEGION\Desktop\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\Xceed.Document.NET.dll
+C:\Users\LEGION\Desktop\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\Xceed.Pdf.dll
+C:\Users\LEGION\Desktop\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\Xceed.Words.NET.dll
+C:\Users\LEGION\Desktop\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.csproj.AssemblyReference.cache
+C:\Users\LEGION\Desktop\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.csproj.SuggestedBindingRedirects.cache
+C:\Users\LEGION\Desktop\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.exe.config
+C:\Users\LEGION\Desktop\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.AllUserControl.UC_Employee.resources
+C:\Users\LEGION\Desktop\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.dashboard.resources
+C:\Users\LEGION\Desktop\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.Form1.resources
+C:\Users\LEGION\Desktop\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.Properties.Resources.resources
+C:\Users\LEGION\Desktop\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.UC_AddRoom.resources
+C:\Users\LEGION\Desktop\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.UC_CheckOut.resources
+C:\Users\LEGION\Desktop\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.UC_CustomerDetails.resources
+C:\Users\LEGION\Desktop\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.UC_CustomerRes.resources
+C:\Users\LEGION\Desktop\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.UC_Receipt.resources
+C:\Users\LEGION\Desktop\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.csproj.GenerateResource.cache
+C:\Users\LEGION\Desktop\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\Desktop\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.csproj.CopyComplete
+C:\Users\LEGION\Desktop\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.exe
+C:\Users\LEGION\Desktop\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.pdb
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\hotelManage.exe.config
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\hotelManage.exe
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\hotelManage.pdb
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\BouncyCastle.Cryptography.dll
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\DocumentFormat.OpenXml.dll
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\Enums.NET.dll
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\Enums.NET.pdb
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\Guna.UI2.dll
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\MathNet.Numerics.dll
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\Microsoft.Office.Interop.Word.dll
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\NPOI.Core.dll
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\NPOI.Core.pdb
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\NPOI.OOXML.dll
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\NPOI.OOXML.pdb
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\NPOI.OpenXml4Net.dll
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\NPOI.OpenXml4Net.pdb
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\NPOI.OpenXmlFormats.pdb
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\ICSharpCode.SharpZipLib.pdb
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\SixLabors.Fonts.dll
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\SixLabors.ImageSharp.dll
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\System.Buffers.dll
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\System.Memory.dll
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\System.Numerics.Vectors.dll
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\System.Security.AccessControl.dll
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\System.Security.Cryptography.Xml.dll
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\System.Security.Principal.Windows.dll
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\System.Text.Encoding.CodePages.dll
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\Xceed.Document.NET.dll
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\Xceed.Pdf.dll
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\Xceed.Words.NET.dll
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.csproj.AssemblyReference.cache
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.csproj.SuggestedBindingRedirects.cache
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.exe.config
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.AllUserControl.UC_Employee.resources
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.dashboard.resources
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.Form1.resources
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.Properties.Resources.resources
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.UC_AddRoom.resources
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.UC_CheckOut.resources
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.UC_CustomerDetails.resources
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.UC_CustomerRes.resources
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.UC_Receipt.resources
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.csproj.GenerateResource.cache
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.csproj.CoreCompileInputs.cache
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.csproj.CopyComplete
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.exe
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.pdb
+E:\Winform\hotelManage - Theo yêu cầu\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.Bill.resources
+C:\Users\LEGION\Documents\Zalo Received Files\hotelManage - Theo yêu cầu (1)\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\hotelManage.exe.config
+C:\Users\LEGION\Documents\Zalo Received Files\hotelManage - Theo yêu cầu (1)\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\hotelManage.exe
+C:\Users\LEGION\Documents\Zalo Received Files\hotelManage - Theo yêu cầu (1)\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\hotelManage.pdb
+C:\Users\LEGION\Documents\Zalo Received Files\hotelManage - Theo yêu cầu (1)\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\LEGION\Documents\Zalo Received Files\hotelManage - Theo yêu cầu (1)\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\LEGION\Documents\Zalo Received Files\hotelManage - Theo yêu cầu (1)\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\LEGION\Documents\Zalo Received Files\hotelManage - Theo yêu cầu (1)\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\Enums.NET.dll
+C:\Users\LEGION\Documents\Zalo Received Files\hotelManage - Theo yêu cầu (1)\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\Enums.NET.pdb
+C:\Users\LEGION\Documents\Zalo Received Files\hotelManage - Theo yêu cầu (1)\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\Guna.UI2.dll
+C:\Users\LEGION\Documents\Zalo Received Files\hotelManage - Theo yêu cầu (1)\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\MathNet.Numerics.dll
+C:\Users\LEGION\Documents\Zalo Received Files\hotelManage - Theo yêu cầu (1)\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\LEGION\Documents\Zalo Received Files\hotelManage - Theo yêu cầu (1)\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\Microsoft.Office.Interop.Word.dll
+C:\Users\LEGION\Documents\Zalo Received Files\hotelManage - Theo yêu cầu (1)\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\NPOI.Core.dll
+C:\Users\LEGION\Documents\Zalo Received Files\hotelManage - Theo yêu cầu (1)\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\NPOI.Core.pdb
+C:\Users\LEGION\Documents\Zalo Received Files\hotelManage - Theo yêu cầu (1)\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\NPOI.OOXML.dll
+C:\Users\LEGION\Documents\Zalo Received Files\hotelManage - Theo yêu cầu (1)\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\NPOI.OOXML.pdb
+C:\Users\LEGION\Documents\Zalo Received Files\hotelManage - Theo yêu cầu (1)\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\LEGION\Documents\Zalo Received Files\hotelManage - Theo yêu cầu (1)\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\NPOI.OpenXml4Net.pdb
+C:\Users\LEGION\Documents\Zalo Received Files\hotelManage - Theo yêu cầu (1)\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\LEGION\Documents\Zalo Received Files\hotelManage - Theo yêu cầu (1)\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\NPOI.OpenXmlFormats.pdb
+C:\Users\LEGION\Documents\Zalo Received Files\hotelManage - Theo yêu cầu (1)\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\LEGION\Documents\Zalo Received Files\hotelManage - Theo yêu cầu (1)\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\LEGION\Documents\Zalo Received Files\hotelManage - Theo yêu cầu (1)\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\SixLabors.Fonts.dll
+C:\Users\LEGION\Documents\Zalo Received Files\hotelManage - Theo yêu cầu (1)\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\SixLabors.ImageSharp.dll
+C:\Users\LEGION\Documents\Zalo Received Files\hotelManage - Theo yêu cầu (1)\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\System.Buffers.dll
+C:\Users\LEGION\Documents\Zalo Received Files\hotelManage - Theo yêu cầu (1)\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\System.Memory.dll
+C:\Users\LEGION\Documents\Zalo Received Files\hotelManage - Theo yêu cầu (1)\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\LEGION\Documents\Zalo Received Files\hotelManage - Theo yêu cầu (1)\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LEGION\Documents\Zalo Received Files\hotelManage - Theo yêu cầu (1)\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\System.Security.AccessControl.dll
+C:\Users\LEGION\Documents\Zalo Received Files\hotelManage - Theo yêu cầu (1)\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\LEGION\Documents\Zalo Received Files\hotelManage - Theo yêu cầu (1)\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\LEGION\Documents\Zalo Received Files\hotelManage - Theo yêu cầu (1)\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\LEGION\Documents\Zalo Received Files\hotelManage - Theo yêu cầu (1)\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\Xceed.Document.NET.dll
+C:\Users\LEGION\Documents\Zalo Received Files\hotelManage - Theo yêu cầu (1)\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\Xceed.Pdf.dll
+C:\Users\LEGION\Documents\Zalo Received Files\hotelManage - Theo yêu cầu (1)\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\Xceed.Words.NET.dll
+C:\Users\LEGION\Documents\Zalo Received Files\hotelManage - Theo yêu cầu (1)\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.csproj.AssemblyReference.cache
+C:\Users\LEGION\Documents\Zalo Received Files\hotelManage - Theo yêu cầu (1)\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.csproj.SuggestedBindingRedirects.cache
+C:\Users\LEGION\Documents\Zalo Received Files\hotelManage - Theo yêu cầu (1)\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.exe.config
+C:\Users\LEGION\Documents\Zalo Received Files\hotelManage - Theo yêu cầu (1)\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.AllUserControl.UC_Employee.resources
+C:\Users\LEGION\Documents\Zalo Received Files\hotelManage - Theo yêu cầu (1)\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.Bill.resources
+C:\Users\LEGION\Documents\Zalo Received Files\hotelManage - Theo yêu cầu (1)\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.dashboard.resources
+C:\Users\LEGION\Documents\Zalo Received Files\hotelManage - Theo yêu cầu (1)\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.Form1.resources
+C:\Users\LEGION\Documents\Zalo Received Files\hotelManage - Theo yêu cầu (1)\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.Properties.Resources.resources
+C:\Users\LEGION\Documents\Zalo Received Files\hotelManage - Theo yêu cầu (1)\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.UC_AddRoom.resources
+C:\Users\LEGION\Documents\Zalo Received Files\hotelManage - Theo yêu cầu (1)\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.UC_CheckOut.resources
+C:\Users\LEGION\Documents\Zalo Received Files\hotelManage - Theo yêu cầu (1)\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.UC_CustomerDetails.resources
+C:\Users\LEGION\Documents\Zalo Received Files\hotelManage - Theo yêu cầu (1)\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.UC_CustomerRes.resources
+C:\Users\LEGION\Documents\Zalo Received Files\hotelManage - Theo yêu cầu (1)\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.UC_Receipt.resources
+C:\Users\LEGION\Documents\Zalo Received Files\hotelManage - Theo yêu cầu (1)\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.csproj.GenerateResource.cache
+C:\Users\LEGION\Documents\Zalo Received Files\hotelManage - Theo yêu cầu (1)\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\Documents\Zalo Received Files\hotelManage - Theo yêu cầu (1)\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.csproj.CopyComplete
+C:\Users\LEGION\Documents\Zalo Received Files\hotelManage - Theo yêu cầu (1)\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.exe
+C:\Users\LEGION\Documents\Zalo Received Files\hotelManage - Theo yêu cầu (1)\hotelManage - Theo yêu cầu\hotelManage\hotelManage\obj\Debug\hotelManage.pdb
+C:\Users\LEGION\Documents\Zalo Received Files\hotelManage - Theo yêu cầu (1)\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\LEGION\Documents\Zalo Received Files\hotelManage - Theo yêu cầu (1)\hotelManage - Theo yêu cầu\hotelManage\hotelManage\bin\Debug\itextsharp.dll
